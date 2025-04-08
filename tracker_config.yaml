@@ -1,0 +1,9 @@
+tracker_node:
+  ros__parameters:
+    ekf:
+      xyz: [0.50, 0.50, 0.50]  # xyz, 3D坐标的float类型
+      yaw: 0.355               # yaw角度的float类型
+      r: 0.802                 # r的float类型
+    vx: 2                      # vx的int类型
+    vy: 1                      # vy的int类型
+    vz: 3                      # vz的int类型
